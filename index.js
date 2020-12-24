@@ -22,7 +22,7 @@ const config = {
     instagram: '-',
     nomer: 'wa.me/62895326522483',
     aktif: 'TERGANTUNG OWNER',
-    youtube: 'https://youtube.com',
+    youtube: '-',
     whatsapp: '-',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
