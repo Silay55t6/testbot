@@ -10,7 +10,7 @@
 <a href="#"><img title="🔰_Botku_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL GRAPHY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ILHAM-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
