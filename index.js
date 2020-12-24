@@ -1,7 +1,7 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY FADHIL ID
+* SCRIPT BY ILHAM 
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
@@ -18,12 +18,12 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '🔰_MyBot_🔰',
-    instagram: 'https://instagram.com/nur.fdhl_',
-    nomer: 'wa.me/6283102650464',
+    A187: '🔰_Botku_🔰',
+    instagram: '-',
+    nomer: 'wa.me/62895326522483',
     aktif: 'TERGANTUNG OWNER',
     youtube: 'https://youtube.com',
-    whatsapp: 'https://chat.whatsapp.com/D8YpSLQWqvh6AYLyn5HnSB',
+    whatsapp: '-',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
@@ -94,7 +94,6 @@ const {
     ytmp3,
     ssweb,
     infogempa,
-    indohot,
     loli,
     ttp,
     map,
@@ -109,7 +108,7 @@ const client = new WAConnection()
 
 client.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-   console.log(`[ ${time} ] QR code by FADHIL & MYBOT, Scan kode qr mu cok!`)
+   console.log(`[ ${time} ] QR code by ILHAM & Botku, Scan kode qr mu !`)
 })
 
 client.on('credentials-updated', () => {
